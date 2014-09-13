@@ -1,0 +1,24 @@
+url: http://brfplogen5.se
+title: "Brf. Plogen 5"
+description: "Bostadsrättsföreningen Plogen 5 i Solna."
+language: sv-se
+
+analytics:
+    profile: "33567818"
+
+permalink: /blogg/:title/
+markdown: kramdown
+timezone: "Europe/Paris"
+
+future: false
+
+exclude:
+  - "README.md"
+  - "node_modules"
+  - "Gemfile"
+  - "package.json"
+  - "404.html"
+
+gems:
+  - "jekyll-sitemap"
+  - "jekyll-redirect-from"
