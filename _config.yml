@@ -17,6 +17,7 @@ exclude:
   - "node_modules"
   - "Gemfile"
   - "package.json"
+  - "gulpfile.js"
   - "404.html"
 
 gems:

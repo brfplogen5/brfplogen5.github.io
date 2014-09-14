@@ -1,0 +1,42 @@
+/* LINKS ------------------------------------------------------------------------- */
+
+a {
+    text-decoration: none;
+    border-bottom: 1px solid;
+
+    &,
+    &:hover,
+    &:focus,
+    &:active {
+        color: #08c;
+        outline: 0;
+    }
+}
+
+/* NAVIGATION --------------------------------------------------------------- */
+
+[role=navigation] {
+    font-size: 0;
+
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+
+    li {
+        display: inline-block;
+    }
+
+    a {
+        border: none;
+        display: block;
+        padding: $line/2;
+        font-size: $font-size;
+        color: #000;
+    }
+
+    .active {
+        color: #777;
+    }
+}

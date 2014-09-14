@@ -1,0 +1,54 @@
+/* BOX SIZING --------------------------------------------------------------- */
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+
+/* HELPERS ------------------------------------------------------------------ */
+
+.wrapper {
+    max-width: 46em;
+    margin: 0 auto;
+    padding: 0 12px;
+}
+
+
+/* HEADER ------------------------------------------------------------------- */
+
+[role=banner] {
+    background: #666;
+    color: #ccc;
+    padding: 12px 0;
+    text-align: center;
+
+    a {
+
+        &,
+        &:hover {
+            border: none;
+            color: #fff;
+        }
+    }
+}
+
+.navigation {
+    border-bottom: 1px solid #eee;
+    text-align: center;
+}
+
+/* FOOTER ------------------------------------------------------------------- */
+
+[role=contentinfo] {
+    margin-top: $line;
+    border-top: 1px solid #eee;
+    padding: $line/2 0;
+    text-align: center;
+    color: #777;
+}
