@@ -15,10 +15,10 @@ Södra Långgatan 36<br />
 
 ## Styrelsen
 
-* Christofer Risberg, ordförande
+* Erik Eng, ordförande
 * Cecilia Eng, ledamot - [070-147 27 46](tel:+46701472746)
-* Erik Eng, ledamot
-* Louise Berkelius, suppleant
+* Jon Stridh, ledamot
+* Nazar Paradivskyy, suppleant
 
 
 [brfplogen5@gmail.com](mailto:brfplogen5@gmail.com)
