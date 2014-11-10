@@ -1,8 +1,9 @@
 /*jslint node: true */
 'use strict';
 
-var gulp = require('gulp'),
-    sass = require('gulp-sass');
+var gulp  = require('gulp'),
+    gutil = require('gulp-util'),
+    sass  = require('gulp-sass');
 
 var paths = {
     sass: '_sass/*.scss'
@@ -18,4 +19,10 @@ gulp.task('sass', function() {
         .pipe(gulp.dest('./css/'));
 });
 
-gulp.task('default', ['sass', 'watch']);
+gulp.task('jekyll', function() {
+    var spawn = require('child_process').spawn,
+        j     = spawn('bundle', ['exec', 'jekyll', 'serve']);
+    gutil.log('Server started at', 'http://localhost:4000');
+});
+
+gulp.task('default', ['sass', 'watch', 'jekyll']);

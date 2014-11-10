@@ -6,6 +6,22 @@ title: Frågor &amp; svar
 # Frågor &amp; svar
 
 
+## Renoveringar
+
+- Byte av radiatortermostater - 2014
+- Invtentering av elinstallationer - 2014
+- Renovering av takvåningen - 2013
+- Sopstation färdigställdes - 2012
+- Fjärrvärmeinstallation - 2007
+- Installation av 3-glasfönster - 1995
+- Stambyte kök och badrum - 1995
+- Renovering av tak - 1995
+- Ny elstigar/elcentral - 1995
+- Omdragning av el i lägenheterna - 1995
+- Renovering av tvättstuga - 1995
+- Installerat säkerhetsdörrar - 1995
+
+
 ## Parkering
 
 De sex (6) parkeringsplatserna kan hyras för 500 kr/månad. Garageplatsen kan hyras för 1500 kr/månad.
@@ -73,9 +89,3 @@ Lägenheterna har antingen förråd i källaren eller på vinden.
 ## Avgifter
 
 Det finns inga beslut om kommande avgiftsändringar.
-
-
-<!--
-- ägarandelar
-- renoveringar
--->
