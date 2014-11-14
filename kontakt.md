@@ -25,6 +25,6 @@ Södra Långgatan 36<br />
 
 ## Ekonomisk förvaltning
 
-__E-count__<br />
+__Brf Plogen 5 c/o E-count AB__<br />
 Box 2037<br />
 169 02 Solna
