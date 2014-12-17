@@ -24,7 +24,7 @@ title: Frågor &amp; svar
 
 ## Parkering
 
-De sex (6) parkeringsplatserna kan hyras för 500 kr/månad. Garageplatsen kan hyras för 1500 kr/månad.
+En av de sex (6) parkeringsplatserna kan hyras för 500 kr/månad. Garage kan hyras för 1500 kr/månad.
 
 I området råder boendeparkering, för mer information besök [Solna Stad](https://www.solna.se/sv/stadsbyggnad-trafik/gator-trafik/parkering/boendeparkering/).
 
@@ -69,6 +69,21 @@ Gemensamma vädringsbalkonger i trapphuset.
 ## Juridisk person
 
 Föreningen godkänner inte juridiska personer som medlemmar.
+
+
+## Överlåtelseavgift
+
+Tas ut av köpare.
+
+
+## Pantsättningsavgift
+
+Tas ut av låntagare.
+
+
+## Delat ägandeskap
+
+Prövas vid medlemsansökan och bedöms från fall till fall.
 
 
 ## Trädgården
