@@ -14,4 +14,9 @@ title: Dokument
 * [2013](/dokument/redovisning-2013.pdf)
 
 
+## Detaljplan
+
+* [1960](/dokument/plogen-detaljplan-0407_1960.pdf)
+
+
 <!-- ## Ordningsregler -->
