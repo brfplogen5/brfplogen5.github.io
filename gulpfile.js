@@ -3,15 +3,11 @@
 
 var gulp  = require('gulp'),
     gutil = require('gulp-util'),
-    sass  = require('gulp-sass');
+    sass = require('gulp-sass');
 
 var paths = {
     sass: '_sass/*.scss'
 }
-
-gulp.task('watch', function() {
-    gulp.watch(paths.sass, ['sass']);
-});
 
 gulp.task('sass', function() {
     gulp.src(paths.sass)
@@ -21,8 +17,12 @@ gulp.task('sass', function() {
 
 gulp.task('jekyll', function() {
     var spawn = require('child_process').spawn,
-        j     = spawn('bundle', ['exec', 'jekyll', 'serve']);
+        j = spawn('jekyll', ['serve']);
     gutil.log('Server started at', 'http://localhost:4000');
 });
 
-gulp.task('default', ['sass', 'watch', 'jekyll']);
+gulp.task('watch', function() {
+    gulp.watch(paths.sass, ['sass']);
+});
+
+gulp.task('default', ['sass', 'jekyll', 'watch']);
