@@ -16,7 +16,7 @@ Södra Långgatan 36<br />
 ## Styrelsen
 
 * Erik Eng, ordförande
-* Cecilia Eng, ledamot - [070-147 27 46](tel:+46701472746)
+* Cecilia Eng, ledamot - [070-444 80 02](tel:+460704448002)
 * Jon Stridh, ledamot
 * Nazar Paradivskyy, suppleant
 
