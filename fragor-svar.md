@@ -26,7 +26,7 @@ title: Frågor &amp; svar
 
 En av de sex (6) parkeringsplatserna kan hyras för 500 kr/månad. Garage kan hyras för 1500 kr/månad.
 
-I området råder boendeparkering, för mer information besök [Solna Stad](https://www.solna.se/sv/stadsbyggnad-trafik/gator-trafik/parkering/boendeparkering/).
+I området råder boendeparkering, för mer information besök [Solna Stad](https://www.solna.se/stadsbyggnad-trafik/parkering/boendeparkering/).
 
 
 ## TV &amp; Internet
