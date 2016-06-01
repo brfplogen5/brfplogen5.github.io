@@ -15,10 +15,10 @@ Södra Långgatan 36<br />
 
 ## Styrelsen
 
-* Erik Eng, ordförande
-* Cecilia Eng, ledamot - [070-444 80 02](tel:+460704448002)
+* Nazar Paradivskyy, ledamot
 * Jon Stridh, ledamot
-* Nazar Paradivskyy, suppleant
+* Erik Eng, ledamot
+* Anna-Carin Lock, suppleant
 
 
 [brfplogen5@gmail.com](mailto:brfplogen5@gmail.com)
