@@ -8,6 +8,7 @@ title: Frågor &amp; svar
 
 ## Renoveringar
 
+- Installation av ytterligare tilluftsventiler - 2016
 - Byte av radiatortermostater - 2014
 - Invtentering av elinstallationer - 2014
 - Renovering av takvåningen - 2013
@@ -19,12 +20,12 @@ title: Frågor &amp; svar
 - Ny elstigar/elcentral - 1995
 - Omdragning av el i lägenheterna - 1995
 - Renovering av tvättstuga - 1995
-- Installerat säkerhetsdörrar - 1995
+- Installation av säkerhetsdörrar - 1995
 
 
 ## Parkering
 
-En av de sex (6) parkeringsplatserna kan hyras för 500 kr/månad. Garage kan hyras för 1500 kr/månad.
+En av de sex (6) parkeringsplatserna kan hyras för 500 kr/månad.
 
 I området råder boendeparkering, för mer information besök [Solna Stad](https://www.solna.se/stadsbyggnad-trafik/parkering/boendeparkering/).
 
