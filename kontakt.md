@@ -15,9 +15,9 @@ Södra Långgatan 36<br />
 
 ## Styrelsen
 
+* Max Ericsson, ledamot
+* Malin Pudas, ledamot
 * Nazar Paradivskyy, ledamot
-* Jon Stridh, ledamot
-* Erik Eng, ledamot
 * Anna-Carin Lock, suppleant
 
 
