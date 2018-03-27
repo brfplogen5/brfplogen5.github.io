@@ -15,10 +15,11 @@ Södra Långgatan 36<br />
 
 ## Styrelsen
 
-* Max Ericsson, ledamot
-* Malin Pudas, ledamot
-* Nazar Paradivskyy, ledamot
+* Torgny Arneflod, ledamot
+* Björn Engström, ledamot
+* Jonas Magnusson, ledamot
 * Anna-Carin Lock, suppleant
+* Mathias Magnusson, suppleant
 
 
 [brfplogen5@gmail.com](mailto:brfplogen5@gmail.com)
