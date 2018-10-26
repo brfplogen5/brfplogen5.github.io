@@ -11,7 +11,7 @@ title: Dokument
 
 ## Årsredovisningar
 
-* [2017](/dokument/redovisning-2016.pdf)
+* [2017](/dokument/redovisning-2017.pdf)
 * [2016](/dokument/redovisning-2016.pdf)
 * [2015](/dokument/redovisning-2015.pdf)
 * [2014](/dokument/redovisning-2014.pdf)
