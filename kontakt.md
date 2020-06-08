@@ -15,12 +15,11 @@ Södra Långgatan 36<br />
 
 ## Styrelsen
 
-* Torgny Arneflod, ledamot
-* Björn Engström, ledamot
-* Jonas Magnusson, ledamot
-* Anna-Carin Lock, suppleant
-* Mathias Magnusson, suppleant
-
+* Hussain Al-Sultani, ledamot
+* Nils Ludvig Kron, ledamot
+* Pia Kristina Piri, ledamot
+* Anna Carin Elisabet Lock, suppleant
+* Mathias Johan Gunnar Magnusson, suppleant
 
 [brfplogen5@gmail.com](mailto:brfplogen5@gmail.com)
 
